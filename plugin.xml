@@ -39,6 +39,10 @@
             <string>We are using the gallery to browse picture to be uploaded in the chat </string>
         </config-file>
         
+        <config-file parent="NSPhotoLibraryAddUsageDescription" target="*-Info.plist">
+            <string>We are using the gallery to browse picture to be uploaded in the chat </string>
+        </config-file>
+        
         
         
     </platform>
